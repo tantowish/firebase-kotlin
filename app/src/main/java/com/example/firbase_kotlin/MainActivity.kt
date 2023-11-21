@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
         budgetListLiveData.observe(this) { budgets ->
             val adapter = ArrayAdapter(
                 this,
-                R.layout.simple_list_item_1,
+                android.R.layout.simple_list_item_1,
                 budgets.toMutableList()
             )
             binding.listView.adapter = adapter
