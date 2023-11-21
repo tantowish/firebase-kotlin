@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029393284932",
+    "project_id": "belajar-firebase-fd627",
+    "storage_bucket": "belajar-firebase-fd627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029393284932:android:a04c82c47553312ddda111",
+        "android_client_info": {
+          "package_name": "com.example.firbase_kotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq_3mszY31Riky9ahBFKlxtl-T1fnnt5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
